@@ -28,7 +28,6 @@ I’m passionate about **Full-Stack Web & App Development**, **AI/ML**, and **Cy
 - 🏆 Hackathon Winner – **ESOC-X-HACK**
 - 🎯 Finalist – **IIM Indore Campus Hackathon**
 - 👨‍💻 Core Developer – **Elevate Club, IIITN**
-- 🛠️ Currently learning **Flutter**, **OpenCV**, and **Laravel**
 
 ---
 
