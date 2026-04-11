@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/swapnil220705?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=swapnil220705&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/CodeChef-★★%20(2%20Star)-orange?style=flat&logo=codechef" alt="CodeChef Badge" />
+  <img src="https://img.shields.io/badge/CodeChef-★★★%20(3%20Star)-orange?style=flat&logo=codechef" alt="CodeChef Badge" />
   <a href="https://leetcode.com/swapnil_2207/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode" alt="LeetCode Badge" />
   </a>
@@ -76,7 +76,7 @@ It provides market-fit analysis, problem-solution alignment, feedback loops, and
 ### 📫 Let's Connect
 
 - 📧 Email: [swapnil22jain07@gmail.com](mailto:swapnil22jain07@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swapnil-jain-71ab66295)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/swapnil-jain-sj05/)  
 - 💻 [GitHub](https://github.com/swapnil220705)  
 - 🌐 Portfolio: *(Coming Soon)*
 
