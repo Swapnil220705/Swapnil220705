@@ -71,6 +71,16 @@ Multilingual news app with integrated Text-to-Speech and optimized API caching, 
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swapnil220705/github-snake/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swapnil220705/github-snake/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Swapnil220705/github-snake/output/github-snake.svg">
+</picture>
+
+---
+
 ### 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Swapnil220705)
